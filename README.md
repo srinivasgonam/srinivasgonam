@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Srinivas Gonam 👋
 
-<!--
-**srinivasgonam/srinivasgonam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Capability Analyst at Quantocos | CSE - AI Student
 
-Here are some ideas to get you started:
+I am passionate about Artificial Intelligence, AI Agents, UI/UX, Data Solutions, and Product Thinking. Currently, I am working as an AI Capability Analyst trainee at Quantocos, where I am involved in projects related to AI workflows, digital solutions, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Artificial Intelligence (AI)
+- AI Agents
+- Python
+- UI/UX Design
+- Data Analysis
+- Git & GitHub
+- HTML, CSS, JavaScript
+- VS Code
+- Prompt Engineering
+
+## Projects
+### Web Mining Based Alumni Association Platform
+Developed a platform to connect alumni and students using web mining techniques for better communication and networking.
+
+### Smart City Data Lake
+Designed a data lake architecture with Bronze, Silver, and Gold layers for data processing and analytics.
+
+### Light Following Robot
+Built an autonomous robot capable of following light sources using sensors.
+
+### Stack Refilling Robot
+Developed a robotic system for automatic object detection and refilling operations.
+
+## Currently Learning
+- AI Agents
+- Generative AI
+- Data Engineering
+- System Design
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/srinivas-gonam
+- GitHub: github.com/srinivasgonam
